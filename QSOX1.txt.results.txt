@@ -1,0 +1,6 @@
+Records: 1
+Header: lcl|NM_002826.5_cds_NP_002817.2_1 [gene=QSOX1] [db_xref=CCDS:CCDS1337.1] [protein=sulfhydryl oxidase 1 isoform a precursor] [protein_id=NP_002817.2] [location=40..2283] [gbkey=CDS]
+Length: 2244
+Type: DNA
+Counts (top): {'C': 692, 'G': 684, 'T': 437, 'A': 431}
+GC%: 61.32
